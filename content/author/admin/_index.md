@@ -67,7 +67,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/maximilian-mader-915566155/"
+  link = "https://www.linkedin.com/in/maximilian-mader"
 
 [[social]]
   icon = "xing"
