@@ -26,14 +26,14 @@ and the ["Nacht der Technik"](https://hwk-koblenz.de/presse-medien/termine-veran
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.facebook.com/watch/?v=593819184114932"
 
 # Links (optional).
 url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.facebook.com/watch/?v=593819184114932"
 url_poster = ""
 
 # Custom links (optional).

@@ -29,7 +29,7 @@ url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
+url_video = "https://twitter.com/maxesstuff/status/1020342122434658305"
 url_poster = ""
 
 # Custom links (optional).
