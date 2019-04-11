@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 200  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Posts"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,3 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<a class="twitter-timeline" href="https://twitter.com/maxesstuff?ref_src=twsrc%5Etfw">Tweets by @maxesstuff</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
