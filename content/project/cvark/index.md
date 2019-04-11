@@ -8,7 +8,14 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = """<b>AR-Framework</b><br>
+In this group project, we developed the augmented reality framework "CVARK" and
+implemented an AR game. We used C++, OpenGL, CUDA, OpenCV, PhysX.
+My responsibilty included implementing occlusion and collsion 
+between real-world and virtual objects.
+We presented our technology and game at the ["CV-Tag"](https://userpages.uni-koblenz.de/~cvtag/web/) 2016
+and the ["Nacht der Technik"](https://hwk-koblenz.de/presse-medien/termine-veranstaltungen/nacht-der-technik/) 2016.
+"""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

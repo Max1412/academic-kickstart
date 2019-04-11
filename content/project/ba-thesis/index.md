@@ -8,7 +8,12 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = """<b>3D Model-Based Tracking in Augmented Reality using a Particle Filter</b><br>
+For my bachelor thesis, I implemented a GPU accelerated 3D model based tracker using C++, OpenGL and CUDA
+with a Kinect v2 for RGBD data.
+The focus lied on using previously-scanned 3D models and evaluating different likelihood evaluation methods
+for selecting the best poses for the particle filter.
+"""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

@@ -8,7 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = """
+<b>Modern OpenGL framework for prototyping and small projects</b><br>
+My OpenGL framework uses C++17 and OpenGL 4.6 and is used for personal
+and university projects, small demos and experiments. It uses modern
+approaches to GPU-driven rendering like [AZDO](https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead), [DSA](https://www.khronos.org/opengl/wiki/Direct_State_Access), [bindless textures](https://www.khronos.org/opengl/wiki/Bindless_Texture) and [indirect multi-draw](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering) and makes heavy usage of compute shaders and SSBOs.
+It contains code for model loading, processing, rendering, live-reloading for shaders, easy debugging and a practical and condensed abstraction over OpenGL.
+"""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +25,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Max1412/Graphics2"
 
 # Links (optional).
 url_pdf = ""

@@ -9,7 +9,9 @@ tags = []
 
 # Project summary to display on homepage.
 summary = """<b>Froxel-based real-time volumetric fog</b> <br>
-We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in [Volumetric Fog and Lighting](https://books.google.de/books?hl=en&lr=&id=30ZOCgAAQBAJ&oi=fnd&pg=PA217&dq=gpu+pro+6+volumetric+wronski&ots=2ZfubWDDFI&sig=P611iciYxczkBTD5LDngvBYPN10&redir_esc=y#v=onepage&q=gpu%20pro%206%20volumetric%20wronski&f=false) (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Felix Schröder ([@flx_schroeder](https://twitter.com/flx_schroeder)), Darius Thies and me."""
+We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in [Volumetric Fog and Lighting](https://books.google.de/books?hl=en&lr=&id=30ZOCgAAQBAJ&oi=fnd&pg=PA217&dq=gpu+pro+6+volumetric+wronski&ots=2ZfubWDDFI&sig=P611iciYxczkBTD5LDngvBYPN10&redir_esc=y#v=onepage&q=gpu%20pro%206%20volumetric%20wronski&f=false) (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Felix Schröder ([@flx_schroeder](https://twitter.com/flx_schroeder)), Darius Thies and me.
+We presented our results at the ["CV-Tag"](https://userpages.uni-koblenz.de/~cvtag/web/) 2018.
+"""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

@@ -8,7 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = """<b>Interactive Art Installation</b><br>
+As a group project in the [working group digital media](https://userpages.uni-koblenz.de/~digitalmedia/) at the University of Koblenz
+we created an interactive art installation at the [Ehrenbreitstein Fortress Light Festival](http://www.festungsleuchten.de/)
+We used a Microsoft Kinect v2, Unreal Engine 4, stage technology (DMX) and a multi-projector
+installation to project peoples movements as shadows to historic environments, linking the Ehrenbreitstein Fortress as it is today
+to its past interactively.
+"""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +25,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://userpages.uni-koblenz.de/~digitalmedia/?p=1884"
 
 # Links (optional).
 url_pdf = ""
