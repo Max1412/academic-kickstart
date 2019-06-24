@@ -16,7 +16,7 @@ role = "MSc Student in Computational Visualistics"
 organizations = [ { name = "Universität Koblenz-Landau", url = "https://www.uni-koblenz-landau.de/de/koblenz" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
