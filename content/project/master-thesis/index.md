@@ -9,7 +9,7 @@ tags = ["C++", "Vulkan", "RTX", "ray tracing", "computer graphics"]
 
 # Project summary to display on homepage.
 summary = """<b>Hybrid Ray Tracing with Vulkan and RTX</b> <br>
-For my master thesis, I'm creating a hybrid renderer which combines traditional rasterization techniques with ray traced effects
+For my master thesis, I created a hybrid renderer which combines traditional rasterization techniques with ray traced effects
 such as soft shadows, reflections and ambient occlusion. I'm using Vulkan, C++ and NVIDIAs RTX technology.
 """
 
@@ -22,7 +22,7 @@ such as soft shadows, reflections and ambient occlusion. I'm using Vulkan, C++ a
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Max1412/vgraphics"
 
 # Links (optional).
 url_pdf = ""
